@@ -1,0 +1,14 @@
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (Don't track massive datasets on GitHub)
+*.csv
+*.xlsx
+*.pkl
+*.npy
+*.npz
